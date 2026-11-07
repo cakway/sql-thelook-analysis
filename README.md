@@ -59,15 +59,12 @@ Tabel yang digunakan:
 -----
 
 ## 💡 Insight Bisnis
-
-*(Bagian ini dapat diisi dengan minimal 2 insight berdasarkan hasil analisis soal 3 dan 5)*
-
-  - **Insight 1 (Kategori Produk):**
-  - Kategori produk yang paling tinggi adalah "Intimates" dengan 2.363 produk
-  - Kategori yang memiliki produk paling sedikit adalah 37 produk adalah "Clothing Sets"
+  - **Insight 1 (Kategori Produk):** 
+    - Kategori produk yang paling tinggi adalah "Intimates" dengan 2.363 produk
+    - Sedangkan kategori yang memiliki produk paling sedikit sebanyak 37 produk adalah "Clothing Sets"
   - **Insight 2 (Total Penjualan):**
-  - Kategori produk penyumbang sales terbesar adalah Outerwear & Coats (332.057)
-  - Kategori pendapatan terendah adalah Clothing Sets (4.126)
+    - Kategori produk penyumbang sales terbesar adalah Outerwear & Coats dengan pendapatan sekitar 332,057.05
+    - Sedangkan kategori dengan pendapatan terendah adalah Clothing Sets (4,126.75) 
 
 -----
 
